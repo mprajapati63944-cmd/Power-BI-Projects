@@ -42,8 +42,8 @@ This dashboard provides insights into an e-commerce business by analyzing sales,
 - Improve dashboard design and storytelling
 
 ## 🤝 Connect with Me
-- LinkedIn: (Add your profile link)
-- GitHub: (Add your GitHub link)
+- LinkedIn: https://www.linkedin.com/in/mohit-prajapati-72020b344
+- GitHub: https://github.com/mprajapati63944-cmd
 
 ---
 
