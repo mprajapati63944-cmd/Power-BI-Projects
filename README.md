@@ -1,50 +1,65 @@
-# 📊 E-Commerce Sales Dashboard (Power BI)
+# 📊 Power BI Projects
 
-🚀 This is my first Data Analytics project built using Power BI.
+This repository contains my Power BI dashboards and projects created while learning data analytics.
 
-## 📌 Project Overview
-This dashboard provides insights into an e-commerce business by analyzing sales, profit, quantity, and customer behavior.
+---
 
-## 🎯 Key Features
-- Total Sales Analysis (438K)
-- Total Profit Analysis (37K)
-- Quantity Sold (5615)
-- Average Order Value (121K)
-- Sales by State
-- Profit by Month
-- Category-wise and Sub-category Analysis
-- Payment Mode Distribution
+## 🚀 About This Repository
 
-## 📊 Dashboard Insights
-- Clothing category contributes the highest sales (~63%)
-- Maharashtra is the top-performing state
-- Some months show negative profit indicating losses
-- COD is the most used payment method
+This repo showcases different Power BI projects where I practice:
 
-## 🛠️ Tools Used
-- Power BI
-- Data Visualization Techniques
+* Data cleaning
+* Data visualization
+* Dashboard creation
+* Business insights generation
 
-## 📂 Dataset
-- Sample E-commerce dataset used for practice and analysis
+---
 
-## 📷 Dashboard Preview
-(Add your dashboard screenshot here)
+## 📂 Projects Included
 
-## 🚀 What I Learned
-- Data visualization techniques
-- Creating interactive dashboards
-- Extracting insights from raw data
+### 1️⃣ Dashboard Project
 
-## 🔮 Future Improvements
-- Add more filters and interactivity
-- Use DAX for advanced calculations
-- Improve dashboard design and storytelling
+* Created interactive dashboards using Power BI
+* Used charts, slicers, and filters for better insights
+* Focused on making data easy to understand
+
+---
+
+## 🛠️ Tools & Technologies
+
+* Power BI
+* Excel (for data preprocessing)
+* DAX (basic calculations)
+
+---
+
+## 📈 Skills Demonstrated
+
+* Data visualization
+* Dashboard design
+* Basic data analysis
+* Problem-solving using data
+
+---
+
+## 🎯 Goal
+
+To improve my data analytics skills and build a strong portfolio for future opportunities.
+
+---
+
+## 📌 Note
+
+This repository will be updated regularly with new Power BI projects.
+
+---
+
+## ⭐ Future Improvements
+
+* Add more real-world datasets
+* Create advanced dashboards
+* Include business problem-based projects
 
 ## 🤝 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/mohit-prajapati-72020b344
 - GitHub: https://github.com/mprajapati63944-cmd
-
----
-
-⭐ If you like this project, feel free to give it a star!
